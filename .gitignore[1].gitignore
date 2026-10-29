@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large dataset files (download from Kaggle instead of uploading)
+*.csv
+!results/*.csv
+
+# OS files
+.DS_Store

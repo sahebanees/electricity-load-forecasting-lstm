@@ -1,0 +1,5 @@
+model,MAE,RMSE,MAPE_%
+Naive (same hour yesterday),2516.95,3378.73,7.85
+Linear Regression,984.64,1254.85,3.1
+Random Forest,352.31,481.74,1.08
+LSTM,607.11,769.44,1.94
